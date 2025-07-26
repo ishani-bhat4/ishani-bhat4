@@ -32,13 +32,13 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🧠 [Early Autism Detection (Gaze Tracker)](#) | Built eye-gaze tracking & emotion classifier tools for children on the spectrum | Python, OpenCV, GCP, ML |
-| 🎯 [Cricket Shot Recognition (Capstone)](#) | Real-time cricket shot recognition using deep learning (99.4% accuracy) | Python, ML/DL, OpenPose |
+| 🎯 [Cricket Shot Recognition (Capstone)](https://github.com/ishani-bhat4/cricket-shot-recognition) | Real-time cricket shot recognition using deep learning (99.4% accuracy) | Python, ML/DL, OpenPose |
 | 💡 [Breast Cancer Detection] (#) | ML model to classify malignant vs. benign tumors | Python, Scikit-learn |
 | 🍽️ [Online Food Ordering System] (#) | DBMS project with ordering and payment features | SQL, HTML/CSS |
 | 🧬 [Multiple Disease Predictor] (#) | Predicts likely diseases from symptoms using ML | Python |
 | 🌐 [NGO Website – Drop of Hope] (#) | Website built for a non-profit initiative | HTML, CSS, JS |
-| 🐟 [Aquarium Automation] (#) | Automated water quality monitor using Arduino | Arduino, Sensors |
-| 📦 [Kafka Data Pipeline] (#) | Implemented Kafka for real-time big data streaming | Kafka |
+| 🐟 [Aquarium Automation] (https://github.com/ishani-bhat4/aquarium-iot-automation) | Automated water quality monitor using Arduino | Arduino, Sensors |
+| 📦 [Kafka Data Pipeline] (https://github.com/ishani-bhat4/kafka-socket-streaming) | Implemented Kafka for real-time big data streaming | Kafka |
 
 ---
 
