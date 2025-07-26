@@ -37,8 +37,8 @@
 | 🍽️ [Online Food Ordering System] (#) | DBMS project with ordering and payment features | SQL, HTML/CSS |
 | 🧬 [Multiple Disease Predictor] (#) | Predicts likely diseases from symptoms using ML | Python |
 | 🌐 [NGO Website – Drop of Hope] (#) | Website built for a non-profit initiative | HTML, CSS, JS |
-| 🐟 [Aquarium Automation] (https://github.com/ishani-bhat4/aquarium-iot-automation) | Automated water quality monitor using Arduino | Arduino, Sensors |
-| 📦 [Kafka Data Pipeline] (https://github.com/ishani-bhat4/kafka-socket-streaming) | Implemented Kafka for real-time big data streaming | Kafka |
+| 🐟 [Aquarium Automation](https://github.com/ishani-bhat4/aquarium-iot-automation) | Automated water quality monitor using Arduino | Arduino, Sensors |
+| 📦 [Kafka Data Pipeline](https://github.com/ishani-bhat4/kafka-socket-streaming) | Implemented Kafka for real-time big data streaming | Kafka |
 
 ---
 
