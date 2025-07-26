@@ -68,10 +68,9 @@
 
 ## 🌐 Connect With Me
 
-- 📬 Email: ishani.bhat04@gmail.com  
+- 📬 Email: ishanibhat4@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ishani-bhat4)  
 - 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=QO3ezwQAAAAJ)  
-- 🌟 [Portfolio Website](#) *(optional – can build with Notion or GitHub Pages)*
 
 ---
 
