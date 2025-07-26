@@ -33,7 +33,7 @@
 |--------|-------------|------------|
 | 🧠 [Early Autism Detection (Gaze Tracker)](https://github.com/ishani-bhat4/online-food-ordering-system) | Built eye-gaze tracking & emotion classifier tools for children on the spectrum | Python, OpenCV, GCP, ML |
 | 🎯 [Cricket Shot Recognition (Capstone)](https://github.com/ishani-bhat4/cricket-shot-recognition) | Real-time cricket shot recognition using deep learning (99.4% accuracy) | Python, ML/DL, OpenPose |
-| 🍽️ [Online Food Ordering System] (#) | DBMS project with ordering and payment features | SQL, HTML/CSS |
+| 🍽️ [Online Food Ordering System](https://github.com/ishani-bhat4/online-food-ordering-system) | DBMS project with ordering and payment features | SQL, HTML/CSS |
 | 🐟 [Aquarium Automation](https://github.com/ishani-bhat4/aquarium-iot-automation) | Automated water quality monitor using Arduino | Arduino, Sensors |
 | 📦 [Kafka Data Pipeline](https://github.com/ishani-bhat4/kafka-socket-streaming) | Implemented Kafka for real-time big data streaming | Kafka |
 
