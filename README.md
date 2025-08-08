@@ -66,7 +66,7 @@
 ## 🌐 Connect With Me
 
 - 📬 Email: ishanibhat4@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ishani-bhat4/)  
+- 💼 [LinkedIn](www.linkedin.com/in/ishani-bhat)  
 - 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=QO3ezwQAAAAJ)  
 
 ---
