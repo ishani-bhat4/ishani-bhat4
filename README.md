@@ -10,17 +10,15 @@
 ## 👩‍💻 About Me
 
 🎓 Master’s in Data Science @ University of Washington (’27)  
-💼 Ex-Business Intelligence Analyst @ Goldman Sachs  
-📊 Skilled in Python, SQL, Alteryx, Tableau, OpenCV, GCP, Streamlit  
-🧠 Published IEEE author in autism detection, deep learning & synthetic data  
-🎯 Building AI tools for social good, especially in neurodiversity & healthcare  
+💼 Ex-Business Analyst @ Goldman Sachs  
+📊 Skilled in Python, SQL, Alteryx, Tableau, Machine Learning  
 🎮 Strategic thinker (chess lover) | 🎶 Ukulele player | 💃 Dancer
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C, SQL, HTML/CSS  
+**Languages:** Python, C, SQL
 **ML/AI:** Scikit-learn, TensorFlow, Keras, OpenCV, AutoML  
 **Tools:** Alteryx, Tableau, GCP, Git, Streamlit, Jupyter  
 **Databases:** MySQL, PostgreSQL, Data Lakes
@@ -30,11 +28,11 @@
 ## 🚀 Highlighted Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🎯 [Cricket Shot Recognition (Capstone)](https://github.com/ishani-bhat4/cricket-shot-recognition) | Real-time cricket shot recognition using deep learning (99.4% accuracy) | Python, ML/DL, OpenPose |
-| 🍽️ [Online Food Ordering System](https://github.com/ishani-bhat4/online-food-ordering-system) | DBMS project with ordering and payment features | SQL, HTML/CSS |
-| 🐟 [Aquarium Automation](https://github.com/ishani-bhat4/aquarium-iot-automation) | Automated water quality monitor using Arduino | Arduino, Sensors |
-| 📦 [Kafka Data Pipeline](https://github.com/ishani-bhat4/kafka-socket-streaming) | Implemented Kafka for real-time big data streaming | Kafka |
+|---------|-------------|------------|
+| 🏏 [Cricket Shot Recognition (Capstone)](https://github.com/ishani-bhat4/cricket-shot-recognition) | Real-time cricket shot recognition using pose estimation & DL (99.4% accuracy) | Python, OpenPose, CNN/RNN |
+| 🎬 [Netflix Movie Analytics Dashboard](https://github.com/ishani-bhat4/netflix-movie-analytics-dashboard) | Interactive dashboard analyzing genre, language, budget & ratings | Python, Pandas, Plotly, Netlify |
+| 🔁 [Customer Churn Prediction](https://github.com/ishani-bhat4/churn-prediction) | Predictive ML pipeline with feature engineering & SHAP explainability | Python, Scikit-learn, SHAP |
+
 
 ---
 
@@ -57,7 +55,7 @@
 
 - 🥇 1st Place – IEEE Hackathon (Autism Detection Gaze Tracker)
 - 🌍 Global Champion – 3M Inspire Challenge 2022
-- 📖 6 IEEE Publications | Citations: 6 | h-index: 1
+- 📖 6 IEEE Publications | Citations: 9 | h-index: 2
 - 🎓 Full academic scholarship recipient (all semesters at PES)
 
 ---
