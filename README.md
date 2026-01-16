@@ -30,8 +30,8 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🏏 [Cricket Shot Recognition (Capstone)](https://github.com/ishani-bhat4/cricket-shot-recognition) | Real-time cricket shot recognition using pose estimation & DL (99.4% accuracy) | Python, OpenPose, CNN/RNN |
-| 🎬 [Netflix Movie Analytics Dashboard](https://github.com/ishani-bhat4/netflix-movie-analytics-dashboard) | Interactive dashboard analyzing genre, language, budget & ratings | Python, Pandas, Plotly, Netlify |
-| 🔁 [Customer Churn Prediction](https://github.com/ishani-bhat4/churn-prediction) | Predictive ML pipeline with feature engineering & SHAP explainability | Python, Scikit-learn, SHAP |
+| 🎬 [Netflix Movie Analytics Dashboard](https://github.com/ishani-bhat4/movie-dashboard) | Interactive dashboard analyzing genre, language, budget & ratings | Python, Pandas, Plotly, Netlify |
+| 🔁 [Customer Churn Prediction](https://github.com/ishani-bhat4/churn-risk-dashboard) | Predictive ML pipeline with feature engineering & SHAP explainability | Python, Scikit-learn, SHAP |
 
 
 ---
