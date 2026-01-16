@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me
 
 🎓 Master’s in Data Science @ University of Washington (’27)  
-💼 Ex-Business Analyst @ Goldman Sachs  
+💼 Analyst @ Goldman Sachs  
 📊 Skilled in Python, SQL, Alteryx, Tableau, Machine Learning  
 🎮 Strategic thinker (chess lover) | 🎶 Ukulele player | 💃 Dancer
 
